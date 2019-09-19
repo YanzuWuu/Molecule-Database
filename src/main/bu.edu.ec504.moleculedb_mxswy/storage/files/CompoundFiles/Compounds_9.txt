@@ -1,0 +1,5 @@
+3 difluoromethoxy(difluoro)methane C C F_0 F_1 F_1 F_0 H_0 H_1 O_0_1
+139 hydrazinylidenemethanedithiol C H H H H N_0_0 N_5_1_2 S_0_3 S_0_4
+533 3-chloroprop-2-enoicacid C C_0 C_0_0 Cl_2 H_0 H_2 H O_1_6 O_1_1
+599 ethyl(iodo)mercury C C_0 H_0 H_0 H_1 H_1 H_1 Hg_0 I_7
+8963 GeneratedCompound_9_atoms_nyOPrj9OpoAXnqNna Al Gd Hs Ir_1_1_1_1 K_3_3 Lu Os_0_0_5_5 Re_1_1 Te_3_3_3_3_6_6_2_2_2_2

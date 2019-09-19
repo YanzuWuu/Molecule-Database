@@ -1,0 +1,23 @@
+32 (3-methylquinolin-8-yl)-dioxo-$l^{6}-sulfane C C_0_0 C_1 C_0 C_3_3 C_0 C_2_2 C_5_5_6 C_4 C_4 H_3 H_5 H_6 H_7 H H_8 H_9 H_9 H_9 N_1_8_8 O O S_20_20_21_21_2_14
+123 2-(2-methoxyphenyl)ethanol C C_0 C_0 C_1 C_0_0 C_2_2 C_4 C_5_6_6 C H_1 H_1 H_3 H_3 H_4 H_5 H_6 H_7 H H_8 H_8 H_8 O_2_8 O_3_17
+156 2,2-dimethyl-4~{H}-pyrido[3,2-b][1,4]oxazin-3-one C C_0 C_0 C_0 C C_4_4 C_4 C_6_6 C_7 H_3 H_3 H_2 H_2 H_2 H_3 H H_6 H_7 H_8 N_1_5_15 N_5_8_8 O_0_4 O_1_1
+179 9-bromo-2-nitrobenzo[f][1]benzofuran Br C C C_1 C_2 C_1_1_2 C_0_3_3_4 C_1 C_7_7 C_2_2 C_4_4 C_9 C_10_11_11 H_5 H_7 H_9 H_10 H_11 H_12 N_8 O_3_8 O_19 O_19_19
+193 5-fluoro-1-(2-hydroxyethoxymethyl)pyrimidine-2,4-dione C C C C C_2_2 C_3 C_4 F_4 H_0 H_0 H_3 H_3 H_2 H H_5 H_5 H N_0_1_2 N_1_6_13 O_0_3 O_1_1 O_5_16 O_6_6
+209 ethyl4-formylbenzoate C C_0_0 C_0 C C_1_3_3 C_2_2_3 C_0 C C_7 C_3 H_1 H_2 H_4 H_5 H_7 H_7 H_8 H_8 H_8 H_9 O_6_7 O_6_6 O_9_9
+223 2-diazonio-5-sulfonaphthalen-1-olate C C_0 C_0_0 C_0 C_1_1 C_2 C_2 C_4_5_5 C_6_6 C_3_3_8 H_3 H_4 H_5 H_7 H_9 H N_8 N_16_16_16 O_15 O O O_6 S_18_19_19_20_20_1
+226 4-ethoxy-1,3-benzothiazol-2-amine C C_0_0 C_0 C_1 C_2_2 C_3_3_4 C C C_6 H_3 H_4 H_5 H_6 H_6 H_8 H_8 H_8 H H N_0_7_7 N_7_17_18 O_1_6 S_2_7
+293 (4-hydroxynaphthalen-1-yl)azanium;chloride C C_0 C_0 C_1 C_0_0 C_2_2 C_1_1 C_3_3_5 C_4 C_6_8_8 Cl H_4 H_5 H_6 H_7 H H H H_8 H_9 H N_2_15_16_17 O_3_20
+408 7-aminoheptanenitrile C C_0 C_0 C_1 C_2 C_3 C_5 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_5 H_5 H H N_4_19_20 N_6_6_6
+414 2,3-dimethoxybenzoicacid C C_0_0 C_0 C_1 C_2_2 C_3_3_4 C_1 C C H_3 H_4 H_5 H_7 H_7 H_7 H_8 H_8 H_8 H O_0_7 O_2_8 O_6_18 O_6_6
+427 2,6-dichloro-9-thiabicyclo[3.3.1]nonane C C C_0 C_1 C_1 C_0 C_2_4 C_3_5 Cl_2 Cl_3 H_0 H_1 H_3 H_2 H_4 H_4 H_5 H_5 H_6 H_6 H_7 H_7 S_0_1
+507 1,2-dimethyl-1~{H}-indene C C_0 C_0 C_1 C_2_2_3 C_0 C_1_1 C_2 C_3_3 C_6 C_8_9_9 H_0 H_4 H_5 H_5 H_5 H_6 H_7 H_7 H_7 H_8 H_9 H_10
+512 3-(chloromethyl)-4-phenyl-2~{H}-furan-5-one C C_0_0 C_0 C_1 C_1 C_0 C_3_3 C_3 C_6 C_7_7 C_8_8_9 Cl_5 H_2 H_2 H_5 H_5 H_6 H_7 H_8 H_9 H_10 O_2_4 O_4_4
+525 calcium;2-[bis(carboxymethyl)amino]aceticacid C C C C_0 C_2 C_1 Ca H_0 H_0 H_1 H_1 H_2 H_2 H H H N_0_1_2 O_3_13 O_5_14 O_4_15 O_3_3 O_5_5 O_4_4
+678 7,8-dihydro-6~{H}-[1,3]dioxolo[4,5-g]isoquinolin-5-one C C_0 C_0 C_1 C_0_0 C_4 C_5_5 C_2_2_6 C_2 C H_1 H_1 H_3 H_3 H_4 H_7 H H_9 H_9 N_3_8_16 O_5_9 O_6_9 O_8_8
+762 potassium;6-hydroxynaphthalene-2-sulfonate C C_0_0 C C_0_2_2 C_1 C_2_4_4 C_0 C_1 C_7_7 C_6_6_8 H_3 H_4 H_5 H_6 H_7 H_9 H K O_8_16 O O O S_19_20_20_21_21_2
+795 [(4-hydrazinyl-5-methylpyrimidin-2-yl)amino]azanium;chloride C C_0 C C_0_0 C_0 Cl H_3 H_4 H_4 H_4 H H H H H H H N_1_1_2 N_2_10 N_2_2_3 N_1_11 N_18_12_13_14 N_20_15_16
+877 2-ethenoxyethyl2-methylprop-2-enoate C C_0 C C_2 C_2 C_2_2 C C_6_6 H_0 H_0 H_1 H_1 H_4 H_4 H_4 H_5 H_5 H_6 H_7 H_7 O_0_3 O_1_6 O_3_3
+921 4-nitro-1-oxidoquinolin-1-ium-6-carboxylic acid C C_0 C_0_0 C_0 C_1 C_3_3 C_4_4_5 C_2 C_7_7 C_5 H_3 H_4 H_6 H_7 H_8 H N_1_1_8 N_2 O_16 O_9_15 O_17 O_17_17 O_9_9
+962 ~{N}-[1-(4-methoxyphenyl)ethylidene]hydroxylamine C C_0_0 C_0 C C_0 C_1_3_3 C_2_2_3 C_4 C H_1 H_2 H_5 H_6 H_7 H_7 H_7 H_8 H_8 H_8 H N_4_4 O_3_8 O_20_19
+982 pentyldihydrogenphosphate C C_0 C_0 C_1 C_2 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_4 H H O_3 O_16 O_17 O P_18_19_20_21_21
+3016 GeneratedCompound_23_atoms_NZRjv9uA1qL5andC0 Ac Ce Cl Cs Cu Ge_1_1 Ho Ir Kr_7_7 Li_3_3_0_0 Mc_5_5_0_0 Na_4_4 Nb_9_9 Nh No_4_4_11_11 Os_5_5_0_0_0_0 Sg_3_3 Sn_3_3_10_10_8_8_6_6 Tc_15_15_15_15_11_11 Te_13_13_10_10_8_8_11_11 U W_16_16_2_2 Xe_21_21_20_20_17_17

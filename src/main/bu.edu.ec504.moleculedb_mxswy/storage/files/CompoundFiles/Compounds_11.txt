@@ -1,0 +1,4 @@
+222 1-chloropropane C C_0 C_0 Cl_1 H_0 H_0 H_1 H_1 H_2 H_2 H_2
+955 2-chloro-5-nitro-1~{H}-imidazole C C_0_0 C Cl_2 H H_1 N_0_2_4 N_1_2_2 N_0 O_8 O_8_8
+2615 GeneratedCompound_11_atoms_fdJrR8JUMBv9x8rsa Al Ce Es_0_0 Es Gd_1_1_2_2 Ir_3_3_0_0 La_2_2_4_4_4_4 Mn Mo_1_1 Pd_2_2_6_6_7_7 Se_5_5
+4181 GeneratedCompound_11_atoms_uiUi06KBKd7OVvFDL Fr Gd I Lu_0_0_2_2 Mc_2_2 Mg Po_5_5_5_5 Pr_2_2 Sb_0_0 Ti_0_0_7_7 Y_0_0_2_2_1_1_3_3

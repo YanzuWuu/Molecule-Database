@@ -1,0 +1,26 @@
+7 ~{N}-(4-aminophenyl)-~{N}-ethylacetamide C C C_0_0 C_0 C C_1 C_2 C_3_3 C_6_6_7 C_4 H_1 H_1 H_2 H_3 H_5 H_5 H_5 H_6 H_7 H_9 H_9 H_9 H H N_0_1_4 N_8_22_23 O_4_4
+34 3-(4-aminophenoxy)aniline C C C_0 C_2_2 C_1_1 C_1 C_0_0 C C_4_7_7 C_5_5_7 C_3 C_6_10_10 H_2 H_4 H_5 H_6 H_8 H_9 H_10 H_11 H H H H N_3_20_21 N_7_22_23 O_0_1
+79 2-(5-ethyl-2-nitroimidazol-1-yl)-~{N}-methylacetamide C C C_0 C C_0_0 C_2 C_1 C H_1 H_1 H_2 H_2 H_4 H_5 H_5 H_5 H H_7 H_7 H_7 N_0_1_3 N_3_3_4 N_3 N_6_7_16 O_6_6 O_22 O_22_22
+88 5-methylheptan-2-ol C C_0 C_1 C_0 C_2 C_0 C_3 C_4 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_5 H_5 H_5 H_6 H_6 H_6 H_7 H_7 H_7 H O_4_25
+142 2-butyl-4,6-dimethyl-1,3,5-triazine C C_0 C_0 C_1 C_2 C C C_5 C_6 H_0 H_0 H_1 H_1 H_2 H_2 H_4 H_4 H_4 H_7 H_7 H_7 H_8 H_8 H_8 N_3_3_5 N_3_6_6 N_5_5_6
+162 dihydroxy(diphenyl)silane C C C_0_0 C_1_1 C_0 C_1 C_2 C_3 C_4_4 C_5_5 C_6_6_8 C_7_7_9 H_2 H_3 H_4 H_5 H_6 H_7 H_8 H_9 H H H_11 H_10 O_20 O_21 Si_24_25_0_1
+196 4-amino-5-bromo-1-(oxan-2-yl)pyrimidin-2-one Br C C_1 C_2 C_3 C_4 C C C_0_6_6 C_8 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_5 H_5 H_6 H H N_1_6_7 N_7_9_9 N_9_20_21 O_1_5 O_7_7
+208 ~{N}-[ethylamino(dimethyl)silyl]ethanamine C C C C C_3 C_2 H H H_0 H_1 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_4 H_5 H_5 H_5 N_2_6 N_3_7 Si_24_25_0_1
+210 2-[(2-hydroxyphenyl)methyl]phenol C C_0 C_0 C_1 C_2 C_1_1 C_2_2 C_3_3 C_4_4 C_6 C_5 C_7_10_10 C_8_9_9 H_0 H_0 H_5 H_6 H_7 H_8 H_10 H_9 H_11 H_12 H H O_4_24 O_3_23
+216 9-methylanthracene C C_0_0 C_0 C_1 C_2 C_3_3_4 C_1 C_2_2 C_0 C_3 C_4_4 C_6_6 C_7 C_9_9_11 C_10_12_12 H_5 H_6 H_7 H_8 H_8 H_8 H_9 H_10 H_11 H_12 H_13 H_14
+326 7-hydroxynaphthalene-1,3-disulfonicacid C C_0_0 C_0 C C_1_3_3 C_2_2_3 C_0 C_2 C_6_6 C_7_7_8 H_4 H_5 H_6 H_7 H_9 H H H O_15 O_16 O O O_8_17 O O S_18_20_20_21_21_1 S_19_23_23_24_24_3
+364 4-methyl-2-(4-methylphenyl)-1,3-dioxolane C C C_0 C_1 C_0 C_3_3 C_3 C C_5_7_7 C_6_6_7 C_7 H_0 H_1 H_2 H_2 H_4 H_4 H_4 H_5 H_6 H_8 H_9 H_10 H_10 H_10 O_0_1 O_1_2
+366 4-propan-2-ylcyclohexene-1-carbaldehyde C C_0 C_0 C_0 C_2 C_3 C_4_5_5 C_1 C_1 C_6 H_0 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_5 H_7 H_7 H_7 H_8 H_8 H_8 H_9 O_9_9
+421 3,4,5-trimethylhex-1-ene C C_0 C_0 C_0 C_1 C_1 C_2 C_2 C_7_7 H_0 H_1 H_2 H_3 H_3 H_3 H_4 H_4 H_4 H_5 H_5 H_5 H_6 H_6 H_6 H_7 H_8 H_8
+458 4-methyl-4-propylpiperidine-2,6-dione C C_0 C_0 C_0 C_0 C_1 C_2 C_3 C_5 H_1 H_1 H_3 H_3 H_2 H_2 H_4 H_4 H_4 H_5 H_5 H H_8 H_8 H_8 N_6_7_20 O_7_7 O_6_6
+542 (2,5-dihydroxyphenyl)-trimethylazanium;bromide Br C C C C C_1_1 C_1 C_6_6 C_5 C_7_8_8 H_2 H_2 H_2 H_3 H_3 H_3 H_4 H_4 H_4 H_6 H_8 H_9 H H N_1_2_3_4 O_5_22 O_7_23
+609 4-morpholin-4-ylaniline C C C_0 C_1 C C_4_4 C_4 C_5 C_6_6 C_7_7_8 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_5 H_6 H_7 H_8 H H N_0_1_4 N_9_22_23 O_2_3
+629 ethyl 2-[(6-bromo-1,3-benzothiazol-2-yl)amino]-2-oxoacetate Br C C_1_1 C C_1 C_2 C_0_4_4 C_5_5_6 C C C_8 C_9 H_4 H_5 H_7 H H_9 H_9 H_11 H_11 H_11 N_2_3_3 N_3_8_15 O_9_10 O_8_8 O_10_10 S_1_3
+651 2-methoxy-3,5,5-trimethyl-2-oxo-1,2$l^{5}-oxaphospholan-3-ol C C C_0_1 C_0 C_1 C_1 C H_2 H_2 H_3 H_3 H_3 H_4 H_4 H_4 H_5 H_5 H_5 H H_6 H_6 H_6 O_1 O_0_18 O_6 O P_22_24_25_25_0
+774 (3-hydroxypyridin-2-yl)-morpholin-4-ylmethanone C C C_0 C_1 C C_4 C_5_5 C_6 C C_7_7_8 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_7 H_8 H_9 H N_0_1_4 N_5_8_8 O_2_3 O_4_4 O_6_21
+815 3,3,5-trimethylhex-1-ene C C_0 C_1 C_0 C_0 C_0 C_2 C_2 C_5_5 H_1 H_1 H_2 H_3 H_4 H_4 H_4 H_3 H_3 H_5 H_6 H_6 H_6 H_7 H_7 H_7 H_8 H_8
+868 3-butylpentane-2,4-dione C C_0 C_0 C_2 C_1 C_1 C_3 C_4 C_5 H_0 H_0 H_1 H_2 H_2 H_3 H_3 H_6 H_6 H_6 H_7 H_7 H_7 H_8 H_8 H_8 O_5_5 O_4_4
+911 ~{N}-phenylbenzenecarbohydrazonoylchloride C C C_0_0 C_0 C_1_1 C_1 C_0 C_2 C_3_3 C_4 C_5_5 C_7_7_8 C_9_9_10 Cl_6 H_2 H_3 H_4 H_5 H H_7 H_8 H_9 H_10 H_11 H_12 N_1_18 N_25_6_6
+934 4-phenyl-1~{H}-quinazolin-2-one C C_0 C_0 C_1 C_0_0 C_2_2 C_4 C_3_3 C_3 C_5_6_6 C C_7 C_8_8 C_11_11_12 H_4 H_5 H H_6 H_7 H_8 H_9 H_11 H_12 H_13 N_2_10_16 N_1_1_10 O_10_10
+961 1,2,3,4,4~{a},9~{b}-hexahydrodibenzothiophene C C_0 C_0 C_1 C_2 C_3_4 C_0 C_6 C_6_6 C_7_7 C_8 C_9_10_10 H_0 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_5 H_5 H_8 H_9 H_10 H_11 S_1_7
+965 2-(3-methylimidazol-4-yl)quinoline C C_0 C C_2 C_1 C_2_4_4 C_0_0 C C_2_2 C C_3_3 C_8 C_10_11_11 H_4 H_5 H_6 H_7 H_9 H_9 H_9 H_8 H_10 H_11 H_12 N_0_7_9 N_1_1_3 N_6_7_7

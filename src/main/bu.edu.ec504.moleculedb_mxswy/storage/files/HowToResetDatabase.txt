@@ -1,0 +1,3 @@
+1. Delete contents of FileList.txt and replace with DefaultFileList.txt
+2. Delete all files in the CompoundFiles folder
+3. Done

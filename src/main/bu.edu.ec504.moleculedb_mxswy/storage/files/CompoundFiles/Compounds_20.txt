@@ -1,0 +1,10 @@
+108 3-(3-chlorophenyl)-2-sulfanylidene-1,3-thiazolidin-4-one C C C_1 C C_0_0 C_0 C_4 C_5_5 C_6_6_7 Cl_6 H_2 H_2 H_4 H_5 H_7 H_8 N_0_1_3 O_1_1 S_2_3 S_3_3
+173 2,3-dimethylbutanoicacid C C_0 C_0 C_0 C_1 C_1 H_0 H_1 H_2 H_2 H_2 H_3 H_3 H_3 H_4 H_4 H_4 H O_5_17 O_5_5
+219 6-amino-1-methyl-1,3-diazinan-2-one C C_0 C_1 C C H_0 H_1 H_1 H_2 H_2 H H_4 H_4 H_4 H H N_0_3_4 N_2_3_10 N_0_14_15 O_3_3
+363 ethyl2,2,3,3,4,4,4-heptafluorobutanoate C C_0 C_0 C_1 C C_4 F_0 F_0 F_1 F_1 F_2 F_2 F_2 H_4 H_4 H_5 H_5 H_5 O_3_4 O_3_3
+502 2,4-dibromo-6-phenylsulfanyl-1,3,5-triazine Br Br C C_2_2 C_2 C_3 C_4_4 C_5_5_6 C C_0 C_1 H_3 H_4 H_5 H_6 H_7 N_8_8_10 N_8_9_9 N_9_10_10 S_2_8
+511 ~{N}-(3-chloro-4-iodophenyl)-1-methylsulfanylmethanimidothioicacid C C_0_0 C_0 C_1 C_2_2 C_3_3_4 C C Cl_3 H_1 H_2 H_4 H_7 H_7 H_7 H I_5 N_0_6_6 S_6_7 S_6_15
+611 3,4-dimethylbenzene-1,2-diol C C_0_0 C_0 C_1 C_2_2 C_0 C_1 C_3_3_4 H_3 H_5 H_5 H_5 H_6 H_6 H_6 H_7 H H O_2_16 O_4_17
+677 naphthalene-1,3-diol C C_0 C_0 C_1 C_0_0 C_1_1 C_3_3 C_2_2_6 C_4 C_5_8_8 H_3 H_4 H_5 H_7 H_8 H_9 H H O_2_16 O_6_17
+826 methyl~{N}-(3-chlorophenyl)carbamate C C_0_0 C_0 C_1 C_2_2 C_3_3_4 C C Cl_3 H_1 H_2 H H_4 H_5 H_7 H_7 H_7 N_0_6_11 O_6_7 O_6_6
+881 2-amino-5-chloro-1,3-benzoxazole-7-sulfonicacid C C_0 C_1_1 C_0_0 C_2 C_3_4_4 C Cl_5 H_3 H_4 H H H N_2_6_6 N_6_11_12 O_1_6 O_10 O O S_16_17_17_18_18_0

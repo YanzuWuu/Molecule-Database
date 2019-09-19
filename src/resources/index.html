@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="/jquery-3.4.0.min.js"></script>
+    <script type="text/javascript" src="/molecule.js"></script>
+    <style type="text/css">
+        .section {
+            border: 1px solid black;
+            padding: 5px;
+        }
+        .section-title {
+            font-size: 24px;
+        }
+
+        .error {
+            color: red;
+        }
+
+        .results {
+            width: 90%;
+            height: 100px;
+        }
+
+        .compound-data {
+            width: 90%;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="section find-compound-section">
+            <div>
+                <div class="section-title">Find Compound</div>
+                <span>Search Mode</span>
+                <select class="search-mode">
+                    <option value="NAME">name</option>
+                    <option value="CHEMICAL_FORMULA">chemical formula</option>
+                    <option value="ISOMORPHISM">isomorphism</option>
+                    <option value="EXACT_SUBGRAPH">exact subgraph</option>
+                    <option value="FUZZY_SUBGRAPH">fuzzy subgraph</option>
+                </select>
+                <br>
+                <label>
+                    Compound Data:<br>
+                    <textarea class="compound-data"></textarea>
+                </label>
+            </div>
+            <div>
+                <button class="execute">Find Compound</button>
+            </div>
+        </div>
+    </div>
+    <div class="section delete-compound-section">
+        <div>
+            <div class="section-title">Delete Compound</div>
+            <label>
+                Compound ID:
+                <input type="number" class="compound-id"/>
+            </label>
+        </div>
+        <div>
+            <button class="execute">Delete Compound</button>
+        </div>
+    </div>
+    <div class="section modify-compound-section">
+        <div>
+            <div class="section-title">Modify Compound</div>
+            <label>
+                Compound ID:
+                <input type="number" class="compound-id"/>
+            </label>
+            <br>
+            <label>
+                Compound Data:<br>
+                <textarea class="compound-data"></textarea>
+            </label>
+        </div>
+        <div>
+            <button class="execute">Modify Compound</button>
+        </div>
+    </div>
+    <div class="section save-compound-section">
+        <div>
+            <div class="section-title">Save Compound</div>
+            <label>
+                Compound Data:<br>
+                <textarea class="compound-data"></textarea>
+            </label>
+        </div>
+        <div>
+            <button class="execute">Save Compound</button>
+        </div>
+    </div>
+    <div class="section output-section">
+        <div>
+            <div class="section-title">Output</div>
+            <label>
+                Server Output:<br>
+                <textarea readonly="readonly" class="results"></textarea>
+            </label>
+        </div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+27 oxidane H H O_0_1
+60 beryllium;dichloride Be Cl_0 Cl_0
+182 magnesium;peroxide Mg O_0 O_0_1
+298 strontium;diiodide I I Sr_0_1
+737 bis(sulfanylidene)titanium S S Ti_0_0_1_1
+959 bis(tellanylidene)iron Fe Te_0_0 Te_0_0
+4845 GeneratedCompound_3_atoms_pFu9j62Eg2GQ2GROs Ni Pb_0_0 Po_0_0_0_0
+7366 GeneratedCompound_3_atoms_BtVVKujgW7TZhskY5 Cm Db_0_0 Ge_0_0

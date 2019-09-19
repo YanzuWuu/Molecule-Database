@@ -1,0 +1,15 @@
+65 1-chloro-2-methoxyethane C C_0 C Cl_1 H_0 H_0 H_1 H_1 H_2 H_2 H_2 O_0_2
+91 1,3,5-triazine-2,4,6-trithiol C C C H H H N_0_0_1 N_0_2_2 N_1_1_2 S_0_3 S_1_4 S_2_5
+376 benzene C C_0_0 C_0 C_1 C_2_2 C_3_3_4 H_1 H_2 H_3 H_4 H_5 H_0
+388 1,1,1,2,3,4,4,4-octachlorobut-2-ene C C_0_0 C_1 C_0 Cl_0 Cl_1 Cl_2 Cl_2 Cl_2 Cl_3 Cl_3 Cl_3
+391 chloromethoxyethane C C_0 C Cl_2 H_0 H_0 H_1 H_1 H_1 H_2 H_2 O_0_2
+405 3-fluoropropan-1-ol C C_0 C_0 F_2 H_0 H_0 H_1 H_1 H_2 H_2 H O_1_10
+423 3-hydroxypropanoicacid C C_0 C_0 H_0 H_0 H_1 H_1 H H O_1_7 O_2_8 O_2_2
+537 cyclohexane-1,2,3,4,5,6-hexone C C_0 C_1 C_2 C_3 C_0_4 O_0_0 O_1_1 O_2_2 O_3_3 O_4_4 O_5_5
+541 ~{N}-(1,2-thiazol-5-ylmethylidene)hydroxylamine C C_0_0 C_1 C_0 H_1 H_2 H_3 H N_2_2 N_3_3 O_9_7 S_8_0
+618 5-chloro-1~{H}-pyrimidine-2,4-dione C C C_0 C_2_2 Cl_2 H H H_3 N_0_1_5 N_1_3_6 O_0_0 O_1_1
+810 4-bromobut-2-enoicacid Br C C_0_1 C_1_1 C_3 H_1 H_2 H_2 H_3 H O_4_9 O_4_4
+960 trisodium;hydrogencarbonate;carbonate C C H Na Na Na O_0_2 O_0 O_0_0 O_1 O_1 O_1_1
+974 1-chloro-2-chlorosulfonyloxyethane C C_0 Cl_1 Cl H_0 H_0 H_1 H_1 O_0 O O S_3_8_9_9_10_10
+7470 GeneratedCompound_12_atoms_5En6VJUIKMOu4PvGD Co Co Fl_1_1 Hs La_0_0_2_2 N_0_0 Og_5_5_0_0 Pb S_6_6 Si_3_3_8_8_2_2 Tl_3_3_8_8_8_8_9_9 Zr_5_5_6_6_6_6
+9012 GeneratedCompound_12_atoms_SvUiICihUmrP2XmDK Cf Cl Dy F_0_0 F Ir_3_3_1_1 Mo_2_2 Np_4_4 Pd_3_3_1_1 Pm_2_2 Rf_3_3_4_4 Tm_8_8_3_3

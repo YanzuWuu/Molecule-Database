@@ -1,0 +1,23 @@
+97 2-methyl-7-nitro-9~{H}-fluorene C C_0 C_0 C_1_1 C_2_2_3 C_1 C_2 C_3 C_4 C_5_5 C_7_7_9 C_6_6 C_8_8_11 C_9 H_0 H_0 H_5 H_6 H_7 H_8 H_10 H_12 H_13 H_13 H_13 N_11 O_25 O_25_25
+100 ~{N}-[dimethyl(oxo)-$l^{6}-sulfanylidene]-4-methylbenzenesulfonamide C C C C_0_0 C_0 C C_3_5_5 C_4_4_5 C_5 H_1 H_1 H_1 H_2 H_2 H_2 H_3 H_4 H_6 H_7 H_8 H_8 H_8 N O O O S_23_23_22_22_1_2 S_24_24_25_25_22_0
+188 4-(3-carboxypropyldisulfanyl)butanoic acid C C C_1 C_0 C_1 C_0 C_4 C_5 H_1 H_1 H_0 H_0 H_2 H_2 H_3 H_3 H_4 H_4 H_5 H_5 H H O_7_21 O_6_20 O_7_7 O_6_6 S_3 S_26_2
+201 ~{N},3-dimethylhexan-3-amine C C_0 C_0 C_0 C_1 C_2 C_4 C H_1 H_1 H_2 H_2 H_3 H_3 H_3 H_4 H_4 H H_5 H_5 H_5 H_6 H_6 H_6 H_7 H_7 H_7 N_0_7_17
+214 3,5,5-trimethylhexanal C C_0 C_1 C_0 C_0 C_0 C_2 C_2 C_6 H_1 H_1 H_2 H_3 H_3 H_3 H_4 H_4 H_4 H_5 H_5 H_5 H_6 H_6 H_7 H_7 H_7 H_8 O_8_8
+250 (2-methyl-2,3-dihydro-1-benzofuran-7-yl)~{N}-methylcarbamate C C_0 C_1 C_2_2 C_0 C_2 C_3 C_6_6 C_5_5_7 C C H_0 H_1 H_1 H_4 H_4 H_4 H_5 H_7 H_8 H H_10 H_10 H_10 N_9_10_20 O_0_3 O_6_9 O_9_9
+334 1-~{N},4-~{N}-dimethyl-1-~{N},4-~{N}-dinitrosobenzene-1,4-dicarboxamide C C C_1_1 C_0_0_2 C_1 C_0_4_4 C_1 C_0 C C H_2 H_3 H_5 H_4 H_8 H_8 H_8 H_9 H_9 H_9 N_6_8 N_7_9 N_20 N_21 O_6_6 O_7_7 O_22_22 O_23_23
+336 2,6-dimethylheptan-3-one C C_0 C_1 C C_2_3 C_0 C_0 C_3 C_3 H_0 H_1 H_1 H_2 H_2 H_3 H_5 H_5 H_5 H_6 H_6 H_6 H_7 H_7 H_7 H_8 H_8 H_8 O_4_4
+350 aluminum(2+)monohydride;ethane;propan-2-ol Al C_0 C_0 C C_1 C_2 C_3 C_3 H_0 H_1 H_1 H_2 H_2 H H_3 H_4 H_4 H_4 H_5 H_5 H_5 H_6 H_6 H_6 H_7 H_7 H_7 O_0_3_13
+402 2-amino-~{N}',~{N}'-bis(2-chloroethyl)propanehydrazide C C C C_2 C_0 C_1 C_2 Cl_5 Cl_4 H_1 H_1 H_0 H_0 H_2 H H_4 H_4 H_5 H_5 H_6 H_6 H_6 H H N_0_1 N_24_3_14 N_2_22_23 O_3_3
+430 2-methyl-1-prop-2-enylquinolin-1-ium C C C_0 C C_1 C_2_4_4 C_0_0 C_2_2 C_1 C_6 C_7_9_9 C_3 C_11_11 H_3 H_3 H_4 H_5 H_6 H_7 H_8 H_8 H_8 H_9 H_10 H_11 H_12 H_12 N_0_1_1_3
+601 4-(2-methylbutan-2-yl)phenol C C_0 C_0 C_0 C_0 C_1 C_2_2 C_2 C_6 C_7_7 C_8_8_9 H_1 H_1 H_3 H_3 H_3 H_4 H_4 H_4 H_5 H_5 H_5 H_6 H_7 H_8 H_9 H O_10_26
+632 2-phenylnaphthalene C C C_0 C_0_1_1 C_1 C_1 C_2_5_5 C_0_0 C_2_2 C_4_4 C_4 C_7 C_8_11_11 C_9 C_10_10 C_13_13_14 H_3 H_5 H_6 H_7 H_8 H_9 H_10 H_11 H_12 H_13 H_14 H_15
+641 7-methoxy-2,6-dimethylisoquinoline-3,5,8-trione C C_0 C C_1_2 C_0 C_2_2_4 C_0_0 C_1_1 C_7 C_2 C C H_6 H_7 H_9 H_9 H_9 H_10 H_10 H_10 H_11 H_11 H_11 N_6_8_10 O_5_11 O_3_3 O_4_4 O_8_8
+680 3-(4-cyanophenyl)-~{N}-(2-hydroxyethyl)prop-2-enamide C C C_0 C_1 C_1_1 C_1 C C_3_3_6 C_4 C_5_5 C_8_8_9 C_10 H_0 H_0 H H_2 H_2 H_3 H_4 H_5 H_7 H_8 H_9 H N_0_6_14 N_11_11_11 O_2_23 O_6_6
+698 [methyl(phenyl)phosphoryl]benzene C C C C_0_0 C_1_1 C_0 C_1 C_3 C_4 C_5_5 C_6_6 C_7_7_9 C_8_8_10 H_2 H_2 H_2 H_3 H_4 H_5 H_6 H_7 H_8 H_9 H_10 H_12 H_11 O P_26_26_0_1_2
+727 ethyl2-(4,5-dichloro-2-nitroanilino)acetate C C_0 C C_0_0 C_1_1 C_3 C_4_5_5 C_2 C C_8 Cl_5 Cl_6 H H_2 H_2 H_3 H_4 H_8 H_8 H_9 H_9 H_9 N_0_2_12 N_1 O_7_8 O_7_7 O_23 O_23_23
+873 ~{N},~{N}-diethylbutan-1-amine C C_0 C C C_1 C_2 C_3 C_4 H_0 H_0 H_1 H_1 H_2 H_3 H_3 H_2 H_4 H_4 H_5 H_5 H_6 H_6 H_6 H_5 H_7 H_7 H_7 N_0_2_3
+888 2-benzyl-1~{H}-benzimidazole C C_0 C C_2 C_0 C_2_2 C_3_3 C_4_4 C_4 C_5 C_6_9_9 C_7 C_8_8 C_11_11_12 H_0 H_0 H H_5 H_6 H_7 H_8 H_9 H_10 H_11 H_12 H_13 N_1_2_16 N_1_1_3
+898 [(2~{S},4~{S},5~{R})-4-fluoro-5-purin-9-yloxolan-2-yl]methanol C C_0 C_1 C_2 C_3 C C C_5 C_7_7 C F_1 H_0 H_1 H_2 H_2 H_3 H_4 H_4 H_6 H H_8 H_9 N_0_5_6 N_6_6_7 N_5_5_9 N_8_9_9 O_0_3 O_4_19
+909 diethyl-sulfanylidene-(2,4,5-trichlorophenoxy)-$l^{5}-phosphane C C C_1 C_0 C C_4 C_4_4 C_6 C_5_5 C_7_7_8 Cl_5 Cl_7 Cl_9 H_1 H_1 H_0 H_0 H_2 H_2 H_2 H_3 H_3 H_3 H_6 H_8 O_4 P_25_0_1 S_26_26
+938 ~{N}-benzyl-7~{H}-purin-6-amine C C C_1 C_0 C_1_1 C_3_3 C_3 C C_5 C_6_6 C C_8_8_9 H_0 H_0 H H H_5 H_6 H_7 H_8 H_9 H_10 H_11 N_0_2_14 N_1_7_15 N_2_2_10 N_4_7_7 N_4_10_10
+7679 GeneratedCompound_28_atoms_UjxNo8FISZsYTqiel Ag As B B Ba Bi Bk_3_3_1_1 Cm_0_0 Co_4_4_5_5 Cs Cu Er_2_2_1_1_1_1 Es_10_10 Es Eu_10_10 Fe Fm_9_9_6_6 Gd_10_10_5_5_9_9_1_1_13_13 Nd_5_5_8_8 Nh_7_7 No_4_4_5_5_8_8_15_15 Pt_13_13_15_15 Ra_2_2 Ra_7_7_19_19 Rg_8_8 Sm_14_14_14_14_16_16 Sm_11_11_19_19 Th_6_6

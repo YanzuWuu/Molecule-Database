@@ -1,0 +1,7 @@
+77 chloro(ethylsulfanyl)mercury C C_0 Cl H_0 H_0 H_1 H_1 H_1 Hg_2 S_8_0
+516 imidazolidine-2,4,5-trione C C_0 C H H N_0_2_3 N_1_2_4 O_1_1 O_0_0 O_2_2
+635 sodium;methylsulfate C H_0 H_0 H_0 Na O_0 O O O S_5_6_7_7_8_8
+805 1,2,3,3,4,4-hexafluorocyclobutene C C_0 C_1 C_0_2_2 F_0 F_1 F_1 F_0 F_3 F_2
+813 2,2,3,4,4-pentafluorooxetane C C_0 C_0 F_0 F_2 F_2 F_1 F_1 H_0 O_1_2
+953 2,2,2-trifluoroethane-1,1-diol C C_0 F_1 F_1 F_1 H_0 H H O_0_7 O_0_6
+2263 GeneratedCompound_10_atoms_pNVU6HAVfE38yrBez Be Cd Cf_1_1 Cs_1_1 Ds_0_0 Gd_3_3 La_0_0_2_2_2_2_5_5 Ra_6_6 Rf_3_3_5_5 W_0_0

@@ -1,0 +1,5 @@
+145 chloroform C Cl_0 Cl_0 Cl_0 H_0
+240 fluoroform C F_0 F_0 F_0 H_0
+706 bromo(diiodo)methane Br C_0 H_1 I_1 I_1
+1020 GeneratedCompound_5_atoms_vmyhOwZjbACdL4fvc Bi He Hf_0_0 Mo_2_2_2_2_0_0 Mo_2_2_3_3_1_1
+3580 GeneratedCompound_5_atoms_k2xCy1kE3wJSUfGTa Ac Al_0_0 Ba_0_0_0_0_0_0 Ge_2_2 Sn_1_1_1_1

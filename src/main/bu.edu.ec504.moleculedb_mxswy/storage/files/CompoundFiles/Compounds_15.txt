@@ -1,0 +1,15 @@
+83 2-(2-bromoethenyl)-5-nitrofuran Br C C C_1_1 C_2_2_3 C_1 C_0_5_5 H_3 H_4 H_5 H_6 N_2 O_1_2 O_11 O_11_11
+84 2-pyridin-3-ylacetonitrile C C_0 C_0 C_0_0 C_2_2 C_4 C_1 H_1 H_1 H_2 H_3 H_4 H_5 N_3_5_5 N_6_6_6
+111 pyridine-4-carboxamide C C_0_0 C_0 C_0 C_1 C_2_2 H_1 H_2 H_4 H_5 H H N_4_4_5 N_3_10_11 O_3_3
+114 2-methyl-1~{H}-imidazole-5-carboxylicacid C C C_1_1 C_0 C_1 H H_2 H_3 H_3 H_3 H N_0_1_5 N_0_0_2 O_4_10 O_4_4
+147 ~{N}-(2-hydroxyethyl)-~{N}-methylnitrousamide C C_0 C H_0 H_0 H_1 H_1 H_2 H_2 H_2 H N_0_2 N_11 O_1_10 O_12_12
+164 propane-1,1,3,3-tetracarbonitrile C C_0 C_0 C_1 C_2 C_2 C_1 H_0 H_0 H_1 H_2 N_3_3_3 N_4_4_4 N_5_5_5 N_6_6_6
+249 4-chloro-6-methylsulfanyl-1,3,5-triazin-2-amine C C C C Cl_2 H_3 H_3 H_3 H H N_0_1_1 N_0_0_2 N_1_2_2 N_1_8_9 S_0_3
+438 3-methyl-1~{H}-pyrimidine-2,4-dione C C C C_1 C_3_3 H_2 H_2 H_2 H H_3 H_4 N_0_1_2 N_0_4_8 O_0_0 O_1_1
+553 3-bromobenzoicacid Br C C_1_1 C_1 C_0_2 C_3_3 C_4_4_5 C_1 H_2 H_3 H_5 H_6 H O_7_12 O_7_7
+568 4,5-dichloro-2-nitrophenol C C_0 C_0_0 C_1_1 C_2 C_3_4_4 Cl_4 Cl_5 H_2 H_3 H N_0 O_1_10 O_11 O_11_11
+596 5-fluoro-2-benzofuran-1,3-dione C C_0_0 C_0 C_1 C_0 C_1 C_2_2 C_3_3_6 F_6 H_2 H_3 H_7 O_4_5 O_4_4 O_5_5
+692 2-chloro-6-methoxypyridine C C_0 C_1_1 C_2 C_3_3 C Cl_4 H_1 H_2 H_3 H_5 H_5 H_5 N_0_0_4 O_0_5
+708 1,3-dichloro-2-(chloromethyl)benzene C C_0_0 C_0 C_0 C_1 C_2_2 C_4_4_5 Cl_1 Cl_2 Cl_3 H_3 H_3 H_4 H_5 H_6
+782 4-iodobenzoicacid C C_0_0 C_0 C_1 C_2_2 C_3_3_4 C_0 H_1 H_2 H_3 H_4 H I_5 O_6_11 O_6_6
+897 ethyl-hydroxy-methylsilane C C C_0 H H_0 H_0 H_1 H_1 H_1 H_2 H_2 H_2 H O_12 Si_13_0_1_3

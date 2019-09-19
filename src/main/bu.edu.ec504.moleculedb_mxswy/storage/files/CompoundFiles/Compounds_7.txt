@@ -1,0 +1,3 @@
+279 oxygen(2-);tantalum(5+) O O O O O Ta Ta
+552 dipotassium;selenate K K O O O O Se_2_3_4_4_5_5
+6125 GeneratedCompound_7_atoms_kBTC5mvTPe7lPSQ9B Be Cd Li_0_0 Lu_0_0_2_2_2_2 Rn_3_3_2_2_1_1 Sg_3_3_0_0_0_0_4_4 Yb_4_4_5_5

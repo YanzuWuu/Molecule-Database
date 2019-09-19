@@ -1,0 +1,8 @@
+22 trichlorobismuthane Bi Cl_0 Cl_0 Cl_0
+185 trichloropraseodymium Cl Cl Cl Pr_0_1_2
+535 oxalonitrile C C_0 N_1_1_1 N_0_0_0
+633 stibane H H H Sb_0_1_2
+735 cyanicacid C H N_0_0_0 O_0_1
+776 trifluoroholmium F F F Ho_0_1_2
+882 triiodoneodymium I I I Nd_0_1_2
+944 trichloro(^{59}Fe)iron-59 Cl Cl Cl Fe_0_1_2

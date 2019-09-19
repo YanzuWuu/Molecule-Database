@@ -1,0 +1,207 @@
+# INSTALLING AND RUNNING DB
+
+Java requirements:
+Install using Maven: Right click pom.xml and select "New Maven Project".
+Maven will install all Java dependencies for this DB. You may need to manually configure the JDK for this project. The JDK has to be version 1.8.
+Note: Occasionally IntelliJ will auto-import pom.xml as a Maven Project. In this case the pom.xml will already have a blue "M" icon.
+Right click pom.xml and select "Maven" > "Generate Sources and Update Folders" to run the dependency builder and build the project.
+
+In addition, the DB requires python to be installed and the pubchempy package which can be installed with `pip install pubchempy`
+
+To run, go through src->main->bu.edu.ec504.moleculedb_mxsxy and run the Main.main() class. This will initialize the DB and start the DB server.
+You should see the message: Server running. Point your browser to http://localhost:8080 to access the Web UI.
+You may also see some warnings from SLF4J. These can be safely ignored.
+
+The following dependencies will be installed through Maven:
+* sparkjava (spark-core) (http://sparkjava.com/)
+* Eclipse Jetty (https://www.eclipse.org/jetty/)
+* json-smart (https://netplex.github.io/json-smart/)
+* apache commons cli (https://commons.apache.org/proper/commons-cli/usage.html)
+* JUnit (https://junit.org/junit5/)
+
+# ACCESSING DB
+
+There are 3 ways to access the DB:
+1. Using the commandline interface
+2. Using the web UI
+3. Using HTTP requests
+
+For using commandline interface, run the command:
+Run the class bu.edu.ec504.moleculedb_mxswy.cli.Commandline with the classpath specified:
+`$JAVA_HOME/java -classpath $CLASS_PATH bu.edu.ec504.moleculedb_mxswy.cli.Commandline -h`
+
+For example, on my laptop, this looks like so:
+`/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -classpath /private/var/folders/xp/xyyz4t8s453f6tcw3ms5jnc40000gn/T/classpath1809297813.jar bu.edu.ec504.moleculedb_mxswy.cli.Commandline -h`
+
+This will give the usage:
+usage: MoleculeDB
+ -a,--addMolecule <arg>                add a new compound using file path
+ -d,--deleteMolecule <arg>             Delete a compound from the database
+                                       using #ID
+ -h,--help                             Show the help message and exit
+ -m,--modifyMolecule <arg>             Update an existing compound using
+                                       the compound number and the new
+                                       data's file path
+ -s,--searchMolecule <arg>             Search for a compound in the
+                                       database, takes 2 arguments:
+                                       (filePath) (searchType), where
+                                       searchType is one of: name,
+                                       formula, isomorphism,
+                                       exact_subgraph, fuzzy_subgraph
+
+
+To add a molecule to the database:
+`$JAVA_HOME/java -classpath $CLASS_PATH bu.edu.ec504.moleculedb_mxswy.cli.Commandline --addMolecule <PathToFile>`
+
+To delete a molecule:
+`$JAVA_HOME/java -classpath $CLASS_PATH bu.edu.ec504.moleculedb_mxswy.cli.Commandline --deleteMolecule <MoleculeID>`
+
+To search by Isomorphism:
+`$JAVA_HOME/java -classpath $CLASS_PATH bu.edu.ec504.moleculedb_mxswy.cli.Commandline --searchMolecule <PathToFile> isomorphism`
+
+Please see the above help doc for other functions.
+
+Alternatively, use IntelliJ to run the Commandline.main() function, and it's easier to implement. Keep in mind the commandline will NOT work if the server is not running.
+Go through src->main->bu.edu.ec504.moleculedb_mxswy->cli, and run the Commandline with Program arguments like : --addMolecule <PathToFile>
+The Program arguments is changed by clicking the block next to the green run arrow, and click "edit Configuration". It will appear a block where you can change the Program arguments.
+
+For using the Web UI:
+After starting the DB, navigate your browser to "http://localhost:8080" and use the provided web UI. All available functions have an interface in the web UI.
+
+For using HTTP requests:
+Using POST requests, the functions are available using the paths below. Each function excepts the POST request to have a JSON body containing the corresponding fields.
+
+Function: Search
+Path: http://localhost:8080/findCompound
+POST header: <"Content-Type": "application/json">
+POST Body:
+{
+"compoundData": "[string containing compound file contents]"
+"searchMode": "[string, one of: name, formula, isomorphism, exact_subgraph, fuzzy_subgraph]"
+}
+
+Function: Modify
+Path: http://localhost:8080/modifyCompound
+POST header: <"Content-Type": "application/json">
+POST Body:
+{
+"compoundData": "[string containing compound file contents]"
+"compoundID": "[int index of compound to modify]"
+}
+
+Function: Delete
+Path: http://localhost:8080/deleteCompound
+POST header: <"Content-Type": "application/json">
+POST Body:
+{
+"compoundID": "[int of compound to modify]"
+}
+
+Function: Save
+Path: http://localhost:8080/saveCompound
+POST header: <"Content-Type": "application/json">
+POST Body:
+{
+"compoundData": "[string containing compound file contents]"
+}
+
+## PUBCHEM DOWNLOAD DATA
+To Download the online molecule data, we connect to the Pubchem online database and the download operation using the python script with pubchempy library.
+Download Limit:		Download Data from PubChem using PubChem ID.
+                            Download Limits:
+                            No more than 5 requests per second.
+                            No more than 400 requests per minute.
+                            No longer than 300 second running time per minute.
+To run the Script:
+python pubchemAPI.py:
+"-i ID          The PubChem ID of compound want to download
+"-r RANDOM  The Random number of compound to download
+
+For example to download the Coumpound Benzene:
+python pubchemAPI.py -i 241
+
+For example to randomly download 10 Coumpounds:
+python pubchemAPI.py -r 10
+
+DownloadDataProcess.java use to handle these download data.
+Function: moveToDatabase:
+Move the data from DownloadData folder to Database
+
+Function: loadFromDownload
+Search specific downloaded compound and output its content.
+
+Note that the download path is hardcoded in the DownloadData class and needs to be edited to your system. DownloadDataProcess.java is located in src/main/bu.edu.ec504.moleculedb_mxswy/PubChem.
+
+## UNIT AND SYSTEMS TESTS
+To run the System Tests, you need to install external library JUnit 5.3 version. The test function all in the src/test/java/bu/edu/ec504/moleculedb_mxswy/api/operationTest.java
+If you want to check any specific function just need to right click the test function name and run test function name. 
+
+Test LoadFromFile Function:
+This test check the LoadFromFile function can transfer the compound data from string type cotents to the Compoud type.
+Step:
+Use the bufferreader to read a target text file and use the LoadFromFile function to store as Compound class
+assertEquals= [Expected name == Compound.name]
+assertEquals= [Expected root == Compound.toot]
+assertEquals= [Expected root size == Compound.root.size()]
+
+Test SaveCompound Function:
+This test check the SaveCompound function. It check the storage location whether exist new file created after the operation.
+step:
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].
+Run SaveCompound function with myCompound.
+assertTrue[file.exists == True]
+
+Test DeleteCompound Function:
+This test check the DeleteCompound function. The test compare storage file before operation with the file after operation, It should be not equal(deleted part of contents in the file).
+step:
+Read the storage File and store as string1
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run DeleteCompound function with proper ID.
+Read the Stoage File and store as string2
+assertNotEquals[String1 != String2]
+
+Test ModifyCompound Function:
+This test check the ModifyCompound function. The test compare storage file before operation with the file after operation, It should be not equal(deleted part of contents in the file).
+step:
+Read the storage File and store as string1
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run ModifyCompound function with proper ID and String file data.
+Read the Stoage File and store as string2
+assertNotEquals[String1 != String2]
+
+Test SearchByName Function:
+This test check the SearchByName function. The  test compare the expected ID list with the MatchID list return from SearchByName function, and two lists should be equal. 
+step:
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run SearchByName function[ myCompoud, SearchTypes.NAME]
+assertEquals[Expected list = MatchID list]
+
+Test SearchByFormula Function:
+This test check the SearchByFormula function. The  test compare the expected ID list with the MatchID list return from SearchByFormula function, and two lists should be equal. 
+step:
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run SearchByFormula function[ myCompoud, SearchTypes.CHEMICAL_FORMULA]
+assertEquals[Expected list = MatchID list]
+
+Test SearchByIsomorphism Function:
+This test check the SearchByIsomorphism function. The  test compare the expected ID list with the MatchID list return from SearchByIsomorphism function, and two lists should be equal. 
+step:
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run SearchByIsomorphism function[ myCompoud, SearchTypes.ISOMORPHISM]
+assertEquals[Expected list = MatchID list]
+
+Test SearchBySubgraph Function:
+This test check the SearchBySubgraph function. The  test compare the expected ID list with the MatchID list return from SearchBySubgraph function, and two lists should be equal. 
+step:
+Given compound data and use the LoadFromFile function to store as Compound class[myCompound].  
+Run SearchBySubgraph function[ myCompoud, SearchTypes.EXACT_SUBGRAPH]
+Run SearchBySubgraph function[ myCompoud, SearchTypes.FUZZY_SUBGRAPH]
+assertEquals[Expected list = MatchID list]
+assertEquals[Expected list 2= MatchID list 2]
+
+Speed Test:
+This test is a speed test to check all the basic operations can complete 10 times in 1 second.
+step:
+Run 10 time basic operation[SaveCompound,DeleteCompound,ModifyCompound,Search]
+assertTimeout(Timeout=1s)
+// TODO: Descriptions of testing patterns, and instructions on how to exercise them

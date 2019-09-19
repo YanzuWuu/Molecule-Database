@@ -1,0 +1,22 @@
+24 2-ethenyl-1,3-dioxan-5-ol C C_0 C_0 C C_3 C_4_4 H_0 H_1 H_1 H_2 H_2 H_3 H_4 H H_5 H_5 O_1_3 O_2_3 O_0_13
+31 ~{N}-(2-chloroethyl)-~{N}-dichlorophosphoryl-2-fluoroethanamine C C C_0 C_1 Cl Cl Cl_2 F_3 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 N_0_1 O P_4_5_17_17_16
+33 sodium;(4-methylphenyl)-oxido-oxo-sulfanylidene-$l^{6}-sulfane C C C_0_0 C_0 C_1_1_2 C_1_3_3 C_1 H_2 H_3 H_4 H_5 H_6 H_6 H_6 Na O O S_15_16_16_0 S_17_17
+82 dipotassium;2,3-dihydroxypropylphosphate C C_0 C_0 H_0 H_1 H_1 H_2 H_2 H H K K O_1 O_0_8 O_2_9 O O O P_12_15_16_17_17
+110 dihydroxy-methyl-(3,3,3-trifluoropropyl)silane C C_0 C C_1 F_3 F_3 F_3 H_0 H_0 H_1 H_1 H_2 H_2 H_2 H H O_14 O_15 Si_16_17_0_2
+146 2,2-bis(trifluoromethyl)imidazolidine C C C_1 C_0 C_0 F_3 F_4 F_4 F_4 F_3 F_3 H H H_1 H_1 H_2 H_2 N_0_1_11 N_0_2_12
+401 3,3-dimethylcyclopentene C C_0 C_1 C_0 C_0 C_0 C_2_3_3 H_1 H_1 H_2 H_2 H_3 H_5 H_5 H_5 H_4 H_4 H_4 H_6
+442 3-(aziridin-1-yl)propan-1-amine C C_0 C C_2 C_3 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H H N_0_1_2 N_4_15_16
+463 1~{H}-benzimidazol-2-ylmethanol C C_0 C C_0_0 C_1_1 C_2 C_3 C_4_6_6 H H_3 H_4 H_5 H_5 H_6 H_7 H N_0_2_8 N_1_2_2 O_5_15
+477 quinoxaline-2-carboxylicacid C C_0 C_0_0 C_1_1 C C_2 C_3_5_5 C_4 C_4 H_2 H_3 H_5 H_7 H_6 H N_0_4_4 N_1_7_7 O_8_14 O_8_8
+487 2-methyl-1,8-naphthyridine C C_0_0 C C_0 C_2_3_3 C_0 C_2 C_5_5 C_7 H_3 H_4 H_5 H_6 H_6 H_6 H_7 H_8 N_1_2_2 N_1_8_8
+488 1-(2,5-dihydroxyphenyl)ethanone C C_0_0 C_0 C_2_2 C_1 C_0 C_3_4_4 C_5 H_2 H_4 H_6 H_7 H_7 H_7 H H O_1_14 O_3_15 O_5_5
+600 2-ethenyl-4,6-bis(trichloromethyl)-1,3,5-triazine C C C C_0 C_1 C_2 C_5_5 Cl_3 Cl_3 Cl_3 Cl_4 Cl_4 Cl_4 H_5 H_6 H_6 N_0_0_1 N_1_1_2 N_0_2_2
+624 2,2-dihydroxy-1-phenylethanone C C_0 C_0_0 C_0 C_1 C_2 C_3_3 C_5_5_6 H_4 H_2 H_3 H_5 H_6 H_7 H H O_4_14 O_4_15 O_1_1
+676 isocyanocyclohexane C C_0 C_0 C_1 C_2 C_3_4 C H_0 H_1 H_2 H_2 H_1 H_3 H_4 H_4 H_3 H_5 H_5 N_0_6_6_6
+751 1,3-benzodioxol-5-ylmethanol C C_0_0 C C_0_2_2 C_1 C_2_4_4 C C_2 H_3 H_4 H_5 H_6 H_6 H_7 H_7 H O_0_6 O_1_6 O_7_15
+834 methyl4-amino-3,5,6-trichloropyridine-2-carboxylate C C C_0_0_1 C_0 C_3_3 C_1 C Cl_2 Cl_3 Cl_4 H H H_6 H_6 H_6 N_1_1_4 N_0_10_11 O_5_6 O_5_5
+853 1-bromo-4-(2-bromoethoxy)benzene Br Br C C C_2_2 C_2 C_0_3 C_4 C_5_5 C_1_7_7_8 H_3 H_3 H_4 H_5 H_6 H_6 H_7 H_8 O_2_3
+918 2-~{O}-(2-methoxy-2-oxoacetyl) 1-~{O}-methyl oxalate C C C_1 C_0 C C H_4 H_4 H_4 H_5 H_5 H_5 O_0_1 O_2_5 O_3_4 O_1_1 O_0_0 O_2_2 O_3_3
+964 1-(4-bromophenyl)ethanol Br C C_1 C_1 C_2_2 C_2 C_4 C_5_5 C_0_6_6_7 H_1 H_3 H_3 H_3 H_4 H_5 H_6 H_7 H O_1_17
+986 6-fluorohexanal C C_0 C_0 C_1 C_2 C_3 F_4 H_0 H_0 H_1 H_1 H_2 H_2 H_3 H_3 H_4 H_4 H_5 O_5_5
+1067 GeneratedCompound_19_atoms_JLByDzwHSraK85TqQ Ag At_0_0 Ca Cd_2_2_0_0 Cm Cs_0_0 Er_1_1 Es_4_4 Fr_6_6 La_4_4 Na_4_4 P_0_0 Po_7_7 Pr_4_4 Ra_4_4_8_8 Rf_9_9_3_3 Sn_5_5_5_5 Th_0_0 Tm_5_5
